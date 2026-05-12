@@ -1,14 +1,14 @@
-\section{Introducere}
+= Introduction
 
-\section{Lorem ipsum}
+== Lorem ipsum
 
-Lorem ipsum dolor sit amet \cite{fake_citation}, consectetur adipiscing elit.
+Lorem ipsum dolor sit amet @fake_citation, consectetur adipiscing elit.
 Nam convallis dapibus ante in interdum. Aliquam vitae elit eu elit gravida
 facilisis. Proin tincidunt sodales elit vitae ornare. Suspendisse quis rutrum
 ipsum, eget tempor felis. Nulla facilisi. Vivamus mollis quam a est aliquam congue.
 Nulla risus turpis, rutrum ac lacus molestie, vestibulum ultricies enim.
 
-\section{Dolor sit amet}
+== Dolor sit amet
 
 Fusce fermentum quis tellus vitae congue. Interdum et malesuada fames ac ante ipsum
 primis in faucibus. Proin convallis congue sapien semper volutpat. Curabitur rhoncus
@@ -18,7 +18,7 @@ quam, luctus in velit ac, venenatis molestie odio. Aliquam vitae feugiat elit.
 Sed auctor gravida leo, ut dictum enim tempus non. Suspendisse in dapibus urna,
 Nulla risus turpis, rutrum ac lacus molestie, vestibulum ultricies enim.
 
-\subsection{Quis tellus vitae}
+=== Quis tellus vitae
 
 Fusce fermentum quis tellus vitae congue. Interdum et malesuada fames ac ante ipsum
 primis in faucibus. Proin convallis congue sapien semper volutpat. Curabitur rhoncus
